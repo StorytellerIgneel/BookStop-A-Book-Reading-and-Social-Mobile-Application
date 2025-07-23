@@ -1,4 +1,4 @@
-# 📚 Wireless_Y2S3 – Smart Wireless Bookshelf App
+# 📚 BookStop: A Book Reading and Social Mobile Application
 
 An end-to-end digital bookshelf platform with real-time communication, offline reading, and a self-hosted backend architecture — designed for speed, scalability, and student communities.
 
